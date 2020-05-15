@@ -34,6 +34,6 @@ Info below is combined from three separate views into this data:
 [LCGFT PDF](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE.pdf)  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=fae9067b208946d68996b10569bc7905"></IFRAME>  
 <p>&nbsp;</p>
-# LCGFT with Links to Other Genre Systems and Proposed Additions (in Green)  
-LCGFT with added info from each of the genre systems above where a direct link could be identified.  
+# LCGFT with Links to Other Genre Systems and Proposed Additions 
+Proposed additions in green. LCGFT with added info from each of the genre systems above where a direct link could be identified.  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=f67c6a9bb97a4407ba78b6db03f63f7f"></IFRAME>
