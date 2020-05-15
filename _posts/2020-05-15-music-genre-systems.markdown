@@ -9,17 +9,21 @@ categories: update
 [All Music Website](https://www.allmusic.com/genres)
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=03b018d9439f452baa76a462fcc02580"></IFRAME>
   
+  
 # MusicMap  
 [MusicMap.Info](https://musicmap.info/)
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=54cdee1b21714bceb2e140d2dd46c078"></IFRAME>
+  
   
 # Continuum Encyclopedia of Popular Music of the World  
 [12 Volume Bloomsbury Encyclopedia Set](https://www.bloomsbury.com/us/series/encyclopedia-of-popular-music-of-the-world/) 
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=3e324c195f424286b84a33bda3fe86fe"></IFRAME>
   
+  
 # Garland Encyclopedia of World Music  
 [10 Volume Alexander Street Press Encyclopedia Set](https://search.alexanderstreet.com/glnd) 
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=c9e5f20f55ad41658766eef19e3430f6"></IFRAME>
+  
   
 # Every Noise at Once  
 [Spotify's Every Noise at Once](http://everynoise.com/)  
@@ -29,10 +33,12 @@ Info below is combined from three separate views into this data:
 [We Built This City On](http://everynoise.com/cities.html)  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=926886c901c04914b853d6dc10e4dddd"></IFRAME>
   
+  
 # Library of Congress Genre/Form Thesaurus (LCGFT)  
 [LCGFT](http://id.loc.gov/authorities/genreForms.html)  
 [LCGFT PDF](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE.pdf)  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=fae9067b208946d68996b10569bc7905"></IFRAME>
+  
   
 # LCGFT with Links to Other Genre Systems and Proposed Additions (in Green)  
 LCGFT with added info from each of the genre systems above where a direct link could be identified.  
