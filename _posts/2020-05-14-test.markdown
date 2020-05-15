@@ -5,4 +5,23 @@ date:   2020-05-14 19:23:00 -0400
 categories: update
 ---
 
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=6216e9cd2ff44616a2f55a503b4f7e81"></IFRAME>
+All Music Guide
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=03b018d9439f452baa76a462fcc02580"></IFRAME>
+
+MusicMap
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=54cdee1b21714bceb2e140d2dd46c078"></IFRAME>
+
+Continuum Encyclopedia of Popular Music of the World
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=3e324c195f424286b84a33bda3fe86fe"></IFRAME>
+
+Garland Encyclopedia of World Music
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=c9e5f20f55ad41658766eef19e3430f6"></IFRAME>
+
+Every Noise at Once
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=926886c901c04914b853d6dc10e4dddd"></IFRAME>
+
+Library of Congress Genre/Form Thesaurus (LCGFT)
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=fae9067b208946d68996b10569bc7905"></IFRAME>
+
+LCGFT with Links to Other Genre Systems
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=f67c6a9bb97a4407ba78b6db03f63f7f"></IFRAME>
