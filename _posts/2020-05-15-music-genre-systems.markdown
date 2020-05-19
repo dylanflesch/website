@@ -8,29 +8,11 @@ categories: update
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=03b018d9439f452baa76a462fcc02580"></IFRAME>  
-# Analysis  
+# Analysis and Litmus Tests  
 Number of terms:  
 Levels of hierarchy (depth of terms):  
 Nature of hierarchy (broad to narrow or parent to child):  
-### Litmus tests:
-#### Art-Folk-Popular
-How this genre system upholds or eschews the art-folk-popular trichotomy. Look at examples that help extrapolate the approach of the designers of this system. Ideally each system only recognizes Art/Folk as broader terms for a music genre/form if that distinction is observed in the locale that the music originates from).  
-#### Who is centered in this genre system?  
-Look for "world music", or an equivalent term that functions as an "othering" of non-western musics?  
-#### Genre system classification  
-Is it a list, thesaurus, taxonomy or ontology? Is it an Aristotelian or Prototype Classification? What is the intended use of this system? Does it attempt to be exhaustive or is it intended to only cover a specific use case or domain?
-#### Reverse engineering the system rules  
-What are the rules of this system?  
-Can a term have multiple parent terms? What are the parent terms for House and Techno for instance? Dance, Electronic and Popular?  
-Are terms meant to be mostly distinct from one another? Or is overlap an encouraged/accepted part of the system?  
-Are certain types of genre term excluded?  
-Location based  
-Time based (dates, seasons, or point in genre life cycle)   
-Electronic/Acoustic Variants  
-Demographic  
-Origin of term (systems often exclude terms seen as stricly from the label, marketing terms, or terms seen as primarily functioning as a radio format description more so than a genre per se)  
-Currency (does the system include terms that are no longer in active use?)  
-#### Information about included terms
+#### Information about included terms  
 Variant term  
 Broader term  
 Narrower term  
@@ -42,9 +24,32 @@ Place of origin
 Inception date  
 Sources of term  
 Examplary/canon artists, works or recordings  
-Popularity    
+Popularity  
+#### Genre system classification  
+Is it a list, thesaurus, taxonomy or ontology? Is it an Aristotelian or Prototype Classification? What is the intended use of this system? Does it attempt to be exhaustive or is it intended to only cover a specific use case or domain?
+#### Reverse engineering the system rules  
+What are the rules of this system?  
+Can a term have multiple parent terms? What are the parent terms for House and Techno for instance? Dance, Electronic and Popular? 
+Are terms meant to be mostly distinct from one another? Or is overlap an encouraged/accepted part of the system?  
+Are certain types of genre term excluded?  
+-Location/Place based (think of both regions, countries, cities, but also place types like desert, swamp, urban or pub rock, juke joint blues
+-Time based (dates, seasons, or point in genre life cycle (i.e. proto, early, classic, revival, modern, neo)   
+-Electronic/Acoustic variants  
+-Instrumental variants  (piano blues, harmonica blues)
+-Artist form variations (crooner...)  
+-Music form variations (12 bar blues)  
+-Fusion genres  
+-Demographic/Identity-based terms  
+-Attitude/Scene-Norm/Purpose-based modifiers like "indie", "alternative", "protest"  
+-Adjective modifiers like "heavy", "psychedelic", "deep"  
+-Origin of term (systems often exclude terms seen as stricly from the label, marketing terms, or terms seen as primarily functioning as a radio format description more so than a genre per se)  
+-Currency (does the system only include terms that are in active use today?)  
 #### Notable exclusions or classifications  
 ...  
+#### Art-Folk-Popular
+How does this genre system upholds or eschews the art-folk-popular trichotomy? Look at examples that help extrapolate the approach of the designers of this system. Does the system recognizes Art/Folk as broader terms for a music genre/form only if that distinction is observed in the locale that the music originates from? Or is that hierarchy imposed regardless of local norms?   
+#### Who is centered in this genre system?  
+Look for "world music", or an equivalent term that functions as an "othering" of non-western musics?  
 #### Handling of my personal focus genres  
 Look in depth at my U.S. centric focus genres, how many sub terms exist under each of these? What parent terms are each of these arranged beneath?  
 Spirituals  
