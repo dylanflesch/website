@@ -9,22 +9,22 @@ categories: update
 [All Music Website](https://www.allmusic.com/genres)  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=03b018d9439f452baa76a462fcc02580"></IFRAME>  
 # Analysis and Litmus Tests  
-Number of terms:  
-Levels of hierarchy (depth of terms):  
-Nature of hierarchy (broad to narrow or parent to child):  
+Numbers of distinct terms: 1143  
+Number of terms: 1180 (includes repeated terms at different levels or under different parents)  
+Levels of hierarchy (depth of terms): 3  
 #### Information about included terms  
-Variant term  
-Broader term  
-Narrower term  
-Related term  
-Equivalent terms (in other systems)  
-Description  
-Scope note  
-Place of origin  
-Inception date  
-Sources of term  
-Examplary/canon artists, works or recordings  
-Popularity  
+Variant terms: No  
+Broader terms: Yes  
+Narrower terms: Yes  
+Related terms: No  
+Equivalent terms (in other systems): No  
+Descriptions: Yes  
+Scope notes: No  
+Places of origin: No, though it's in some descriptions and embedded within some genre terms and categories  
+Inception dates: No  
+Sources of term: No  
+Examplary/canon artists, works or recordings: Yes, exemplary artists, albums and/or songs for many genres    
+Popularity: No  
 #### Genre system classification  
 Is it a list, thesaurus, taxonomy or ontology? Is it an Aristotelian or Prototype Classification? What is the intended use of this system? Does it attempt to be exhaustive or is it intended to only cover a specific use case or domain? What is it's primary organizing principle (geographic, audience-based, etc).  
 #### Reverse engineering the system rules  
@@ -44,6 +44,8 @@ Are certain types of genre term excluded?
 -Adjective modifiers like "heavy", "psychedelic", "deep"  
 -Origin of term (systems often exclude terms seen as stricly from the label, marketing terms, or terms seen as primarily functioning as a radio format description more so than a genre per se)  
 -Currency (does the system only include terms that are in active use today?)  
+#### Strictly Genre terms vs. Genre Groupings interspersed within list of Genre terms? 
+Think of genre groupings like "Roots Music", it's got overlap with marketing terms, but more than anything functions as a tool for inscribing a subset of artists from a subset of genres with additional cultural capital... Or "Electronic", it's too broad to really function as a meaningful genre term, so it's presence in these systems is usually just a way to group actual genres like house, techno, drum & bass, trance (and often to put them in lineage with music concrete, minimalism, etc...)    
 #### Notable exclusions or inclusions
 ...  
 #### Art-Folk-Popular
@@ -77,6 +79,23 @@ Electronic
 # MusicMap  
 [MusicMap.Info](https://musicmap.info/)
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=54cdee1b21714bceb2e140d2dd46c078"></IFRAME>  
+# Analysis and Litmus Tests  
+Numbers of distinct terms: 337 
+Number of terms: 476 (includes repeated terms at different levels or under different parents)  
+Levels of hierarchy (depth of terms): 5  
+#### Information about included terms  
+Variant terms: Sort of, some of the genres or genre groupings appear to "Lounge / Exotica / Space Age Pop" for instance 
+Broader terms: Yes  
+Narrower terms: Yes  
+Related terms: No  
+Equivalent terms (in other systems): No  
+Descriptions: Yes  
+Scope notes: No  
+Places of origin: No, though it's in some descriptions and embedded within some genre terms and categories  
+Inception dates: No  
+Sources of term: No  
+Examplary/canon artists, works or recordings: Yes, exemplary artists, albums and/or songs for many genres    
+Popularity: No  
 <p>&nbsp;</p>
 # Continuum Encyclopedia of Popular Music of the World  
 [12 Volume Bloomsbury Encyclopedia Set](https://www.bloomsbury.com/us/series/encyclopedia-of-popular-music-of-the-world/) 
