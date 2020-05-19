@@ -26,13 +26,13 @@ Sources of term
 Examplary/canon artists, works or recordings  
 Popularity  
 #### Genre system classification  
-Is it a list, thesaurus, taxonomy or ontology? Is it an Aristotelian or Prototype Classification? What is the intended use of this system? Does it attempt to be exhaustive or is it intended to only cover a specific use case or domain?
+Is it a list, thesaurus, taxonomy or ontology? Is it an Aristotelian or Prototype Classification? What is the intended use of this system? Does it attempt to be exhaustive or is it intended to only cover a specific use case or domain? What is it's primary organizing principle (geographic, audience-based, etc).  
 #### Reverse engineering the system rules  
 What are the rules of this system?  
 Can a term have multiple parent terms? What are the parent terms for House and Techno for instance? Dance, Electronic and Popular? 
 Are terms meant to be mostly distinct from one another? Or is overlap an encouraged/accepted part of the system?  
 Are certain types of genre term excluded?  
--Location/Place based (think of both regions, countries, cities, but also place types like desert, swamp, urban or pub rock, juke joint blues
+-Location/Place based (think of both regions, countries, cities, but also place types like desert, swamp, urban or pub rock, juke joint blues  
 -Time based (dates, seasons, or point in genre life cycle (i.e. proto, early, classic, revival, modern, neo)   
 -Electronic/Acoustic variants  
 -Instrumental variants  (piano blues, harmonica blues)
