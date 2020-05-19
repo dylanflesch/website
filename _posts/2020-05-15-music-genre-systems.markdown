@@ -7,22 +7,18 @@ categories: update
 
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
-<p>&nbsp;</p>
-## Analysis  
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=03b018d9439f452baa76a462fcc02580"></IFRAME>  
+# Analysis  
 Number of terms:  
 Levels of hierarchy (depth of terms):  
 Nature of hierarchy (broad to narrow or parent to child):  
-<p>&nbsp;</p>
 ### Litmus tests:
 #### Art-Folk-Popular
 How this genre system upholds or eschews the art-folk-popular trichotomy. Look at examples that help extrapolate the approach of the designers of this system. Ideally each system only recognizes Art/Folk as broader terms for a music genre/form if that distinction is observed in the locale that the music originates from).  
-<p>&nbsp;</p>
 #### Who is centered in this genre system?  
 Look for "world music", or an equivalent term that functions as an "othering" of non-western musics?  
-<p>&nbsp;</p>
 #### Genre system classification  
 Is it a list, thesaurus, taxonomy or ontology? Is it an Aristotelian or Prototype Classification? What is the intended use of this system? Does it attempt to be exhaustive or is it intended to only cover a specific use case or domain?
-<p>&nbsp;</p>
 #### Reverse engineering the system rules  
 What are the rules of this system?  
 Can a term have multiple parent terms? What are the parent terms for House and Techno for instance? Dance, Electronic and Popular?  
@@ -34,7 +30,6 @@ Electronic/Acoustic Variants
 Demographic  
 Origin of term (systems often exclude terms seen as stricly from the label, marketing terms, or terms seen as primarily functioning as a radio format description more so than a genre per se)  
 Currency (does the system include terms that are no longer in active use?)  
-<p>&nbsp;</p>
 #### Information about included terms
 Variant term  
 Broader term  
@@ -48,10 +43,8 @@ Inception date
 Sources of term  
 Examplary/canon artists, works or recordings  
 Popularity    
-<p>&nbsp;</p>
 #### Notable exclusions or classifications  
 ...  
-<p>&nbsp;</p>
 #### Handling of my personal focus genres  
 Look in depth at my U.S. centric focus genres, how many sub terms exist under each of these? What parent terms are each of these arranged beneath?  
 Spirituals  
@@ -71,8 +64,6 @@ Electronic
 -House  
 -Techno  
 ...  
-<p>&nbsp;</p>
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=03b018d9439f452baa76a462fcc02580"></IFRAME>  
 <p>&nbsp;</p>
 # MusicMap  
 [MusicMap.Info](https://musicmap.info/)
