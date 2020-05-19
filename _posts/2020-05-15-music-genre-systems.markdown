@@ -44,14 +44,18 @@ Are certain types of genre term excluded?
 -Adjective modifiers like "heavy", "psychedelic", "deep"  
 -Origin of term (systems often exclude terms seen as stricly from the label, marketing terms, or terms seen as primarily functioning as a radio format description more so than a genre per se)  
 -Currency (does the system only include terms that are in active use today?)  
-#### Notable exclusions or classifications  
+#### Notable exclusions or inclusions
 ...  
 #### Art-Folk-Popular
 How does this genre system uphold or eschew the art-folk-popular trichotomy? Look at examples that help extrapolate the approach of the designers of this system. Does the system recognizes Art/Folk as broader terms for a music genre/form only if that distinction is observed in the locale that the music originates from? Or is that hierarchy imposed regardless of local norms?   
+#### Popular vs. Pop  
+Does the system differentiate between popular music and pop music?  
+#### Blending of Rock/Pop  
+Some systems blur the line between rock and pop, where in effect these two end up forming an "unnamed middle" that everything else is defined in relation to, does this system do that?  
 #### Who is centered in this genre system?  
 Look for "world music", or an equivalent term that functions as an "othering" of non-western musics?  
 #### Handling of my personal focus genres  
-Look in depth at my U.S. centric focus genres, how many sub terms exist under each of these? What parent terms are each of these arranged beneath?  
+Look in depth at my U.S.-popular-music-centric focus genres, how many sub terms exist under each of these? What parent terms are each of these arranged beneath?  
 Spirituals  
 Gospel  
 Ragtime  
