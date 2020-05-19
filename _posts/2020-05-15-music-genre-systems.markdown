@@ -35,7 +35,7 @@ Are certain types of genre term excluded?
 -Location/Place based (think of both regions, countries, cities, but also place types like desert, swamp, urban or pub rock, juke joint blues  
 -Time based (dates, seasons, or point in genre life cycle (i.e. proto, early, classic, revival, modern, neo)   
 -Electronic/Acoustic variants  
--Instrumental variants  (piano blues, harmonica blues)
+-Instrumental variants  (piano blues, harmonica blues)  
 -Artist form variations (crooner...)  
 -Music form variations (12 bar blues)  
 -Fusion genres  
@@ -47,7 +47,7 @@ Are certain types of genre term excluded?
 #### Notable exclusions or classifications  
 ...  
 #### Art-Folk-Popular
-How does this genre system upholds or eschews the art-folk-popular trichotomy? Look at examples that help extrapolate the approach of the designers of this system. Does the system recognizes Art/Folk as broader terms for a music genre/form only if that distinction is observed in the locale that the music originates from? Or is that hierarchy imposed regardless of local norms?   
+How does this genre system uphold or eschew the art-folk-popular trichotomy? Look at examples that help extrapolate the approach of the designers of this system. Does the system recognizes Art/Folk as broader terms for a music genre/form only if that distinction is observed in the locale that the music originates from? Or is that hierarchy imposed regardless of local norms?   
 #### Who is centered in this genre system?  
 Look for "world music", or an equivalent term that functions as an "othering" of non-western musics?  
 #### Handling of my personal focus genres  
