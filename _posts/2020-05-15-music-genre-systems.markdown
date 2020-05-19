@@ -30,7 +30,7 @@ Info below is combined from three separate views into this data:
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=926886c901c04914b853d6dc10e4dddd"></IFRAME>  
 <p>&nbsp;</p>
 # WikiData 
-[WikiDatawiki](https://www.wikidata.org/wiki/Wikidata:Main_Page)   
+[WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)   
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=6af021300d9f4ea1a6824996e04aedea"></IFRAME>  
 <p>&nbsp;</p>
 # Library of Congress Genre/Form Thesaurus (LCGFT)  
