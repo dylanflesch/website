@@ -80,30 +80,64 @@ Electronic
 [MusicMap.Info](https://musicmap.info/)
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=54cdee1b21714bceb2e140d2dd46c078"></IFRAME>  
 # Analysis and Litmus Tests  
-Numbers of distinct terms: 337 
+Numbers of distinct terms: 337  
 Number of terms: 476 (includes repeated terms at different levels or under different parents)  
 Levels of hierarchy (depth of terms): 5  
 #### Information about included terms  
 Variant terms: Sort of, some of the genres or genre groupings appear to "Lounge / Exotica / Space Age Pop" for instance 
 Broader terms: Yes  
 Narrower terms: Yes  
-Related terms: No  
+Related terms: Yes, see "cluster" column  
 Equivalent terms (in other systems): No  
 Descriptions: Yes  
 Scope notes: No  
 Places of origin: No, though it's in some descriptions and embedded within some genre terms and categories  
-Inception dates: No  
+Inception dates: Yes  
 Sources of term: No  
-Examplary/canon artists, works or recordings: Yes, exemplary artists, albums and/or songs for many genres    
+Examplary/canon artists, works or recordings: Yes, links to playlists (artists + recordings) for each genre    
 Popularity: No  
 <p>&nbsp;</p>
 # Continuum Encyclopedia of Popular Music of the World  
 [12 Volume Bloomsbury Encyclopedia Set](https://www.bloomsbury.com/us/series/encyclopedia-of-popular-music-of-the-world/) 
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=3e324c195f424286b84a33bda3fe86fe"></IFRAME>  
+# Analysis and Litmus Tests  
+Numbers of distinct terms: 950  
+Number of terms: 954 (includes repeated terms at different levels or under different parents)  
+Levels of hierarchy (depth of terms): 3  
+#### Information about included terms  
+Variant terms: No   
+Broader terms: Each term is grouped beneath a world region    
+Narrower terms: No  
+Related terms: No  
+Equivalent terms (in other systems): No  
+Descriptions: Probably, but not in my sheet here  
+Scope notes: No  
+Places of origin: Probably, but my sheet only displays the region, but I believe the encyclopedia entries go into much more detail    
+Inception dates: No  
+Sources of term: No  
+Examplary/canon artists, works or recordings: Yes, but no in my sheet here    
+Popularity: No  
 <p>&nbsp;</p>
 # Garland Encyclopedia of World Music  
 [10 Volume Alexander Street Press Encyclopedia Set](https://search.alexanderstreet.com/glnd) 
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=c9e5f20f55ad41658766eef19e3430f6"></IFRAME>  
+# Analysis and Litmus Tests  
+Numbers of distinct terms: 2928  
+Number of terms: 3560 (filtered out of broader 10,000+ glossary of terms that include instruments, music theory concepts, etc)  
+Levels of hierarchy (depth of terms): 2  
+#### Information about included terms  
+Variant terms: No   
+Broader terms: Each term is grouped beneath a specific encyclopedia volume mostly based on world region  
+Narrower terms: No  
+Related terms: No  
+Equivalent terms (in other systems): No  
+Descriptions: Yes  
+Scope notes: No  
+Places of origin: Probably, but my sheet only displays the region, but I believe the encyclopedia entries go into much more detail  
+Inception dates: No  
+Sources of term: No  
+Examplary/canon artists, works or recordings: Probably, but no in my sheet here    
+Popularity: No  
 <p>&nbsp;</p>
 # Every Noise at Once  
 [Spotify's Every Noise at Once](http://everynoise.com/)  
@@ -112,15 +146,66 @@ Info below is combined from three separate views into this data:
 [Genres by Country](http://everynoise.com/countries.html)  
 [We Built This City On](http://everynoise.com/cities.html)  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=926886c901c04914b853d6dc10e4dddd"></IFRAME>  
+# Analysis and Litmus Tests  
+Numbers of distinct terms: 4253  
+Number of terms: 4253 (filtered out of broader 10,000+ glossary of terms that include instruments, music theory concepts, etc)  
+Levels of hierarchy (depth of terms): 0  
+#### Information about included terms  
+Variant terms: No   
+Broader terms: No    
+Narrower terms: No  
+Related terms: No  
+Equivalent terms (in other systems): No  
+Descriptions: No  
+Scope notes: No  
+Places of origin: Yes, I've pulled in region, country and city where they have it    
+Inception dates: No  
+Sources of term: No  
+Examplary/canon artists, works or recordings: Links to algorithmicly generated playlists with currently popular artists/recordings       
+Popularity: Yes    
 <p>&nbsp;</p>
 # WikiData 
 [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)   
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=6af021300d9f4ea1a6824996e04aedea"></IFRAME>  
+# Analysis and Litmus Tests  
+Numbers of distinct terms: 2025  
+Number of terms: 2624 (filtered out of broader 10,000+ glossary of terms that include instruments, music theory concepts, etc)  
+Levels of hierarchy (depth of terms): 8  
+#### Information about included terms  
+Variant terms: Yes, for some  
+Broader terms: Yes, for some  
+Narrower terms: Yes, for some  
+Related terms: No  
+Equivalent terms (in other systems): Yes, for some  
+Descriptions: Could be pulled in from Wikipedia    
+Scope notes: No  
+Places of origin:  Yes, for some   
+Inception dates: Yes, for some  
+Sources of term: Yes, for some 
+Examplary/canon artists, works or recordings: Yes, for some  
+Popularity: No   
 <p>&nbsp;</p>
 # Library of Congress Genre/Form Thesaurus (LCGFT)  
 [LCGFT](http://id.loc.gov/authorities/genreForms.html)  
 [LCGFT PDF](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE.pdf)  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=fae9067b208946d68996b10569bc7905"></IFRAME>  
+# Analysis and Litmus Tests  
+Numbers of distinct terms: 708  
+Number of terms: 1045 (filtered out of broader 10,000+ glossary of terms that include instruments, music theory concepts, etc)  
+Levels of hierarchy (depth of terms): 7  
+#### Information about included terms  
+Variant terms: Yes  
+Broader terms: Yes  
+Narrower terms: Yes  
+Related terms: No  
+Equivalent terms (in other systems): Yes  
+Descriptions: No    
+Scope notes: Yes, for some  
+Places of origin: No  
+Inception dates: No  
+Sources of term: Yes  
+Examplary/canon artists, works or recordings: No  
+Popularity: No   
 <p>&nbsp;</p>
 # LCGFT with Links to Other Genre Systems and Proposed Additions 
 Proposed additions in green. LCGFT with added info from each of the genre systems above where a direct link could be identified.  
