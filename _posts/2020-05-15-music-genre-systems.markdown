@@ -148,7 +148,7 @@ Info below is combined from three separate views into this data:
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=926886c901c04914b853d6dc10e4dddd"></IFRAME>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 4253  
-Number of terms: 4253 (filtered out of broader 10,000+ glossary of terms that include instruments, music theory concepts, etc)  
+Number of terms: 4253 (includes repeated terms at different levels or under different parents)  
 Levels of hierarchy (depth of terms): 0  
 #### Information about included terms  
 Variant terms: No   
@@ -169,7 +169,7 @@ Popularity: Yes
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=6af021300d9f4ea1a6824996e04aedea"></IFRAME>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 2025  
-Number of terms: 2624 (filtered out of broader 10,000+ glossary of terms that include instruments, music theory concepts, etc)  
+Number of terms: 2624 (includes repeated terms at different levels or under different parents)  
 Levels of hierarchy (depth of terms): 8  
 #### Information about included terms  
 Variant terms: Yes, for some  
@@ -191,7 +191,7 @@ Popularity: No
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=fae9067b208946d68996b10569bc7905"></IFRAME>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 708  
-Number of terms: 1045 (filtered out of broader 10,000+ glossary of terms that include instruments, music theory concepts, etc)  
+Number of terms: 1045 (includes repeated terms at different levels or under different parents)    
 Levels of hierarchy (depth of terms): 7  
 #### Information about included terms  
 Variant terms: Yes  
