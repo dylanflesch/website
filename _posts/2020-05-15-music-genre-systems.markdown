@@ -164,6 +164,47 @@ Sources of term: No
 Examplary/canon artists, works or recordings: Links to algorithmicly generated playlists with currently popular artists/recordings       
 Popularity: Yes    
 <p>&nbsp;</p>
+# Classical Music Classification (Genre/Forms) (Class Class)
+[Class Class Genre/Forms](http://artquiz.sourceforge.net/classclass/frame1.php)  
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=227f968706a146fa8a50fbe4b6015d47"></IFRAME>  
+# Analysis and Litmus Tests  
+Numbers of distinct terms: 281  
+Number of terms:   
+Levels of hierarchy (depth of terms):   
+#### Information about included terms  
+Variant terms: Yes   
+Broader terms: Yes    
+Narrower terms: Yes  
+Related terms: Yes  
+Equivalent terms (in other systems): Yes  
+Descriptions: Yes  
+Scope notes: No  
+Places of origin: Yes, for some    
+Inception dates: Yes, for some   
+Sources of term: No  
+Examplary/canon artists, works or recordings: Yes, for some       
+Popularity: No    
+# Classical Music Classification (Styles/Schools) (Class Class)
+[Class Class Styles/Schools](http://artquiz.sourceforge.net/cmap/)  
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=227f968706a146fa8a50fbe4b6015d47"></IFRAME>  
+# Analysis and Litmus Tests  
+Numbers of distinct terms: 55  
+Number of terms:   
+Levels of hierarchy (depth of terms):   
+#### Information about included terms  
+Variant terms:    
+Broader terms:     
+Narrower terms:   
+Related terms:   
+Equivalent terms (in other systems):   
+Descriptions:   
+Scope notes:   
+Places of origin:     
+Inception dates:    
+Sources of term:   
+Examplary/canon artists, works or recordings:        
+Popularity:    
+<p>&nbsp;</p>
 # WikiData 
 [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)   
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=6af021300d9f4ea1a6824996e04aedea"></IFRAME>  
