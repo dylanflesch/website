@@ -9,6 +9,7 @@ categories: update
 [All Music Website](https://www.allmusic.com/genres)  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=03b018d9439f452baa76a462fcc02580"></IFRAME>  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://docs.google.com/spreadsheets/d/16EU8b01pGymI3eYLnrAR8P8ulz-qYfF1pKWjer9EJuY/edit#gid=124500457"></IFRAME>  
+<iframe width="700" height="700" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={8dc4396e-b9b7-42a9-9076-84829ff3482f}&action=embedview&ActiveCell='All%20Music%20Guide'!A1&Item='All%20Music%20Guide'!A1%3AM1180&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # A collapsible section with markdown
 <details>
   <summary>Click to expand!</summary>
