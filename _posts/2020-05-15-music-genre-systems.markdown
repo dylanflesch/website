@@ -8,7 +8,14 @@ categories: update
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
 <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=03b018d9439f452baa76a462fcc02580"></IFRAME>  
-<iframe style="width: 1000; height: 900;" src="https://docs.google.com/spreadsheets/d/16EU8b01pGymI3eYLnrAR8P8ulz-qYfF1pKWjer9EJuY/edit#gid=124500457"></iframe>  
+<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://docs.google.com/spreadsheets/d/16EU8b01pGymI3eYLnrAR8P8ulz-qYfF1pKWjer9EJuY/edit#gid=124500457"></IFRAME>  
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://docs.google.com/spreadsheets/d/16EU8b01pGymI3eYLnrAR8P8ulz-qYfF1pKWjer9EJuY/edit#gid=124500457"></IFRAME>  
+</details>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 1143  
 Number of terms: 1180 (includes repeated terms at different levels or under different parents)  
