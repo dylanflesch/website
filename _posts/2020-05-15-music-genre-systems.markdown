@@ -7,7 +7,6 @@ categories: update
 
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={8dc4396e-b9b7-42a9-9076-84829ff3482f}&action=embedview&ActiveCell='All%20Music%20Guide'!A1&Item='All%20Music%20Guide'!A1%3AM1180&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EW45xI23ualCkHaEgp_zSC8Bc7VP6H7ONnKkEGUZLjQpSg?e=vMDIFw&action=embedview&ActiveCell='All%20Music%20Guide'!A1&Item='All%20Music%20Guide'!A1%3AM1180&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 1143  
@@ -79,7 +78,6 @@ Electronic
 <p>&nbsp;</p>
 # MusicMap  
 [MusicMap.Info](https://musicmap.info/)
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={fb40f9fb-68d8-4f48-b5a6-d19bf13896e3}&action=embedview&ActiveCell='Music%20Map'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/Efv5QPvYaEhPtabRm_E4luMBwG8cC59vUt2V_NYiar1z6A?e=Gnb2AF&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 337  
@@ -101,7 +99,6 @@ Popularity: No
 <p>&nbsp;</p>
 # Continuum Encyclopedia of Popular Music of the World  
 [12 Volume Bloomsbury Encyclopedia Set](https://www.bloomsbury.com/us/series/encyclopedia-of-popular-music-of-the-world/) 
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={1635a173-d89f-4553-b208-53c8cff7be79}&action=embedview&ActiveCell='Continuum'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EXOhNRaf2FNFsghTyM_3vnkBAtKNRWwd1y37tgOUDkQ9LA?e=PfdatK&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 950  
@@ -123,7 +120,6 @@ Popularity: No
 <p>&nbsp;</p>
 # Garland Encyclopedia of World Music  
 [10 Volume Alexander Street Press Encyclopedia Set](https://search.alexanderstreet.com/glnd) 
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={9d5d1977-96a2-477f-bb25-fa73636348d0}&action=embedview&ActiveCell='Garland'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EXcZXZ2iln9HuyX6c2NjSNABYDxZyRBz0eG4-PtrmqSWrA?e=bbtX99&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 2928  
@@ -149,7 +145,6 @@ Info below is combined from three separate views into this data:
 [List](http://everynoise.com/everynoise1d.cgi?scope=all)  
 [Genres by Country](http://everynoise.com/countries.html)  
 [We Built This City On](http://everynoise.com/cities.html)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={3bbf6e20-d5a7-4c81-9f4f-7aa23d076c4c}&action=embedview&ActiveCell='Every%20Noise%20at%20Once'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/ESBuvzun1YFMn096oj0HbEwBz5NIXvl6SZCJ2wB0vUx5QQ?e=NIFcdn&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 4253  
@@ -171,7 +166,6 @@ Popularity: Yes
 <p>&nbsp;</p>
 # Classical Music Classification (Genre/Forms) (Class Class)
 [Class Class Genre/Forms](http://artquiz.sourceforge.net/classclass/frame1.php)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={9f206a1f-178f-4cc2-9c3c-05fac7a500d5}&action=embedview&ActiveCell='Classclass%20Styles'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/ERsQcj2iPoBLrli32sMqySoB5LI1YOr2RaHIKb5DSLWa4Q?e=BAHYxt&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 281  
@@ -193,7 +187,6 @@ Popularity: No
 <p>&nbsp;</p>
 # Classical Music Classification (Styles/Schools) (Class Class)
 [Class Class Styles/Schools](http://artquiz.sourceforge.net/cmap/)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={3d72101b-3ea2-4b80-ae58-b7dac32ac92a}&action=embedview&ActiveCell='Classical%20Music%20Classification%20'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/ER9qIJ-PF8JMnDwF-selANUBvnLn_eG_Dok6WMIBPKGP1w?e=KlrLfI&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 55  
@@ -215,7 +208,6 @@ Popularity:
 <p>&nbsp;</p>
 # WikiData 
 [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)   
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={ca7d75fa-74ed-4b86-8056-2913b81421be}&action=embedview&ActiveCell='WikiData'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/Efp1fcrtdIZLgFYpE7gUIb4BhH9Oe45ewToR8O9SIz7Ucw?e=Ryjo7q&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 2025  
@@ -238,7 +230,6 @@ Popularity: No
 # Library of Congress Genre/Form Thesaurus (LCGFT)  
 [LCGFT](http://id.loc.gov/authorities/genreForms.html)  
 [LCGFT PDF](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE.pdf)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={637d1424-c580-4b83-a2e0-a3c243980866}&action=embedview&ActiveCell='LCGFT'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/ESQUfWOAxYNLouCjwkOYCGYBDtT8RldvHyt4px3oH3zoqQ?e=2zJNkf&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 708  
@@ -260,5 +251,4 @@ Popularity: No
 <p>&nbsp;</p>
 # LCGFT with Links to Other Genre Systems and Proposed Additions 
 Proposed additions in green. LCGFT with added info from each of the genre systems above where a direct link could be identified.  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={c1a50a8d-1923-42f6-a039-7cb87fe370b6}&action=embedview&ActiveCell='LCGFT%20with%20links%20to%20other%20genre'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EY0KpcEjGfZCoDl8uH_jcLYBqJHWgu6qZ3rg34-2CtS2aA?e=PcbQ5t&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
