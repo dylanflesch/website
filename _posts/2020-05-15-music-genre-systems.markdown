@@ -7,16 +7,7 @@ categories: update
 
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=03b018d9439f452baa76a462fcc02580"></IFRAME>  
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://docs.google.com/spreadsheets/d/16EU8b01pGymI3eYLnrAR8P8ulz-qYfF1pKWjer9EJuY/edit#gid=124500457"></IFRAME>  
-<iframe width="700" height="700" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={8dc4396e-b9b7-42a9-9076-84829ff3482f}&action=embedview&ActiveCell='All%20Music%20Guide'!A1&Item='All%20Music%20Guide'!A1%3AM1180&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
-# A collapsible section with markdown
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. <IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://docs.google.com/spreadsheets/d/16EU8b01pGymI3eYLnrAR8P8ulz-qYfF1pKWjer9EJuY/edit#gid=124500457"></IFRAME>  
-</details>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={8dc4396e-b9b7-42a9-9076-84829ff3482f}&action=embedview&ActiveCell='All%20Music%20Guide'!A1&Item='All%20Music%20Guide'!A1%3AM1180&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 1143  
 Number of terms: 1180 (includes repeated terms at different levels or under different parents)  
@@ -87,7 +78,7 @@ Electronic
 <p>&nbsp;</p>
 # MusicMap  
 [MusicMap.Info](https://musicmap.info/)
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=54cdee1b21714bceb2e140d2dd46c078"></IFRAME>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={fb40f9fb-68d8-4f48-b5a6-d19bf13896e3}&action=embedview&ActiveCell='Music%20Map'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 337  
 Number of terms: 476 (includes repeated terms at different levels or under different parents)  
@@ -108,7 +99,7 @@ Popularity: No
 <p>&nbsp;</p>
 # Continuum Encyclopedia of Popular Music of the World  
 [12 Volume Bloomsbury Encyclopedia Set](https://www.bloomsbury.com/us/series/encyclopedia-of-popular-music-of-the-world/) 
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=3e324c195f424286b84a33bda3fe86fe"></IFRAME>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={1635a173-d89f-4553-b208-53c8cff7be79}&action=embedview&ActiveCell='Continuum'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 950  
 Number of terms: 954 (includes repeated terms at different levels or under different parents)  
@@ -129,7 +120,7 @@ Popularity: No
 <p>&nbsp;</p>
 # Garland Encyclopedia of World Music  
 [10 Volume Alexander Street Press Encyclopedia Set](https://search.alexanderstreet.com/glnd) 
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=c9e5f20f55ad41658766eef19e3430f6"></IFRAME>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={9d5d1977-96a2-477f-bb25-fa73636348d0}&action=embedview&ActiveCell='Garland'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 2928  
 Number of terms: 3560 (filtered out of broader 10,000+ glossary of terms that include instruments, music theory concepts, etc)  
@@ -154,7 +145,7 @@ Info below is combined from three separate views into this data:
 [List](http://everynoise.com/everynoise1d.cgi?scope=all)  
 [Genres by Country](http://everynoise.com/countries.html)  
 [We Built This City On](http://everynoise.com/cities.html)  
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=926886c901c04914b853d6dc10e4dddd"></IFRAME>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={3bbf6e20-d5a7-4c81-9f4f-7aa23d076c4c}&action=embedview&ActiveCell='Every%20Noise%20at%20Once'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 4253  
 Number of terms: 4253 (includes repeated terms at different levels or under different parents)  
@@ -175,7 +166,7 @@ Popularity: Yes
 <p>&nbsp;</p>
 # Classical Music Classification (Genre/Forms) (Class Class)
 [Class Class Genre/Forms](http://artquiz.sourceforge.net/classclass/frame1.php)  
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=227f968706a146fa8a50fbe4b6015d47"></IFRAME>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={9f206a1f-178f-4cc2-9c3c-05fac7a500d5}&action=embedview&ActiveCell='Classclass%20Styles'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 281  
 Number of terms:   
@@ -196,7 +187,7 @@ Popularity: No
 <p>&nbsp;</p>
 # Classical Music Classification (Styles/Schools) (Class Class)
 [Class Class Styles/Schools](http://artquiz.sourceforge.net/cmap/)  
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=2e3272a410a14b8a907266910d083a77"></IFRAME>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={3d72101b-3ea2-4b80-ae58-b7dac32ac92a}&action=embedview&ActiveCell='Classical%20Music%20Classification%20'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 55  
 Number of terms:   
@@ -217,7 +208,7 @@ Popularity:
 <p>&nbsp;</p>
 # WikiData 
 [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)   
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=6af021300d9f4ea1a6824996e04aedea"></IFRAME>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={ca7d75fa-74ed-4b86-8056-2913b81421be}&action=embedview&ActiveCell='WikiData'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 2025  
 Number of terms: 2624 (includes repeated terms at different levels or under different parents)  
@@ -239,7 +230,7 @@ Popularity: No
 # Library of Congress Genre/Form Thesaurus (LCGFT)  
 [LCGFT](http://id.loc.gov/authorities/genreForms.html)  
 [LCGFT PDF](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE.pdf)  
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=fae9067b208946d68996b10569bc7905"></IFRAME>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={637d1424-c580-4b83-a2e0-a3c243980866}&action=embedview&ActiveCell='LCGFT'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 708  
 Number of terms: 1045 (includes repeated terms at different levels or under different parents)    
@@ -260,4 +251,4 @@ Popularity: No
 <p>&nbsp;</p>
 # LCGFT with Links to Other Genre Systems and Proposed Additions 
 Proposed additions in green. LCGFT with added info from each of the genre systems above where a direct link could be identified.  
-<IFRAME WIDTH="1000" HEIGHT="700" FRAMEBORDER="0" SRC="https://app.smartsheet.com/b/publish?EQBCT=f67c6a9bb97a4407ba78b6db03f63f7f"></IFRAME>
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/personal/dflesch_nypublicradio_org/_layouts/15/Doc.aspx?sourcedoc={c1a50a8d-1923-42f6-a039-7cb87fe370b6}&action=embedview&ActiveCell='LCGFT%20with%20links%20to%20other%20genre'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>
