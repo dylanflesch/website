@@ -78,7 +78,7 @@ Electronic
 <p>&nbsp;</p>
 # MusicMap  
 [MusicMap.Info](https://musicmap.info/)
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/Efv5QPvYaEhPtabRm_E4luMBwG8cC59vUt2V_NYiar1z6A?e=Gnb2AF&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/Efv5QPvYaEhPtabRm_E4luMBwG8cC59vUt2V_NYiar1z6A?e=bo5cwr&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 337  
 Number of terms: 476 (includes repeated terms at different levels or under different parents)  
@@ -99,7 +99,7 @@ Popularity: No
 <p>&nbsp;</p>
 # Continuum Encyclopedia of Popular Music of the World  
 [12 Volume Bloomsbury Encyclopedia Set](https://www.bloomsbury.com/us/series/encyclopedia-of-popular-music-of-the-world/) 
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EXOhNRaf2FNFsghTyM_3vnkBAtKNRWwd1y37tgOUDkQ9LA?e=PfdatK&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EXOhNRaf2FNFsghTyM_3vnkBAtKNRWwd1y37tgOUDkQ9LA?e=CwdTCx&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 950  
 Number of terms: 954 (includes repeated terms at different levels or under different parents)  
@@ -166,7 +166,7 @@ Popularity: Yes
 <p>&nbsp;</p>
 # Classical Music Classification (Genre/Forms) (Class Class)
 [Class Class Genre/Forms](http://artquiz.sourceforge.net/classclass/frame1.php)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/ERsQcj2iPoBLrli32sMqySoB5LI1YOr2RaHIKb5DSLWa4Q?e=BAHYxt&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/ERsQcj2iPoBLrli32sMqySoB5LI1YOr2RaHIKb5DSLWa4Q?e=6qOqro&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 281  
 Number of terms:   
@@ -187,7 +187,7 @@ Popularity: No
 <p>&nbsp;</p>
 # Classical Music Classification (Styles/Schools) (Class Class)
 [Class Class Styles/Schools](http://artquiz.sourceforge.net/cmap/)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/ER9qIJ-PF8JMnDwF-selANUBvnLn_eG_Dok6WMIBPKGP1w?e=KlrLfI&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/ER9qIJ-PF8JMnDwF-selANUBvnLn_eG_Dok6WMIBPKGP1w?e=iYGeLi&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 55  
 Number of terms:   
