@@ -7,7 +7,7 @@ categories: update
 
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EW45xI23ualCkHaEgp_zSC8Bc7VP6H7ONnKkEGUZLjQpSg?e=vMDIFw&action=embedview&ActiveCell='All%20Music%20Guide'!A1&Item='All%20Music%20Guide'!A1%3AM1180&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EW45xI23ualCkHaEgp_zSC8Bc7VP6H7ONnKkEGUZLjQpSg?e=vMDIFw&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 1143  
 Number of terms: 1180 (includes repeated terms at different levels or under different parents)  
