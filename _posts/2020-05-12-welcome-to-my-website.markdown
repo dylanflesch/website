@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the my website"
+title:  "Welcome to my website"
 date:   2020-05-12 08:45:00 -0400
 categories: update
 ---
