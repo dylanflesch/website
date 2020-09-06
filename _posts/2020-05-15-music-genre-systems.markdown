@@ -252,3 +252,7 @@ Popularity: No
 # LCGFT with Links to Other Genre Systems and Proposed Additions 
 Proposed additions in green. LCGFT with added info from each of the genre systems above where a direct link could be identified.  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EY0KpcEjGfZCoDl8uH_jcLYBqJHWgu6qZ3rg34-2CtS2aA?e=PcbQ5t&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
+<p>&nbsp;</p>
+# Comparison of Music Genre Systems 
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EfH_SrV2EY1GlDTEmi4_2q0BkRtVxJwiXUaSc79Af1_aRg?e=9HZAqZ&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
+
