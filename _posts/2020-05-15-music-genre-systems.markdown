@@ -10,6 +10,10 @@ categories: update
 
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="http://18.234.160.10/Skosmos/amg/en/"></iframe>  
+
+# All Music Guide2  
+[All Music Website](https://www.allmusic.com/genres)  
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EW45xI23ualCkHaEgp_zSC8Bc7VP6H7ONnKkEGUZLjQpSg?e=vMDIFw&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 1143  
