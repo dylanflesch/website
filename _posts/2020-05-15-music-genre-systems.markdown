@@ -10,7 +10,7 @@ categories: update
 
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
-![All Music Data Nutrition Label](https://github.com/dylanflesch/website/blob/de51a8dff44cbed38813fc15abfc8c6977f392f3/_posts/_media/AMG-Data-Nutrition-Label.png)
+![All Music Data Nutrition Label](_posts/_media/AMG-Data-Nutrition-Label.png)
 
 # All Music Guide2  
 [All Music Website](https://www.allmusic.com/genres)  
