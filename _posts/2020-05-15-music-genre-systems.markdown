@@ -10,7 +10,7 @@ categories: update
 
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="http://18.234.160.10/Skosmos/amg/en/"></iframe>  
+![All Music Data Nutrition Label](https://raw.githubusercontent.com/social-distance-radio/website/master/_posts/_media/mixx-preferences.png) 
 
 # All Music Guide2  
 [All Music Website](https://www.allmusic.com/genres)  
