@@ -10,7 +10,10 @@ categories: update
 
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
+Data Nutrition Label.  
 ![AMG-Data-Nutrition-Label](https://raw.githubusercontent.com/dylanflesch/website/master/_posts/_media/AMG-Data-Nutrition-Label.png)
+
+Fill out the fields below:  
 
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 1143  
