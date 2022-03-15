@@ -11,7 +11,7 @@ categories: update
 # All Music Guide  
 [All Music Guide Official Website](https://www.allmusic.com/genres)  
 [Explore in Skosmos Taxonomy Managment Tool](http://18.234.160.10/Skosmos/amg/en/index)  
-[SQARQL query in knowledge graph](http://18.234.160.10:3030/dataset.html?tab=query&ds=/skosmos#query=SELECT+%3Fp+(COUNT(%3Fp)+AS+%3FpTotal)%0AWHERE%7B%0A++++++++++++++GRAPH+%3Chttps%3A%2F%2Fdylanflesch.org%2F2022-03-12-05-50pm%3E%7B%0A++++++++++++++%3Fs+%3Fp+%3Fo+.++%0A++++++%7D+++++%0A%7DGROUP+BY+%3Fp%0AORDER+BY+DESC(%3FpTotal)%0A)  
+[SQARQL query in knowledge graph](http://18.234.160.10:3030/dataset.html?tab=query&ds=/skosmos#query)  
 ![AMG-Data-Nutrition-Label](https://raw.githubusercontent.com/dylanflesch/website/master/_posts/_media/AMG-Data-Nutrition-Label.png)
 
 Fill out the fields below:  
