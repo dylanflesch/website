@@ -10,11 +10,8 @@ categories: update
 
 # All Music Guide  
 [All Music Website](https://www.allmusic.com/genres)  
-![All Music Data Nutrition Label](https://github.com/dylanflesch/website/blob/master/_posts/_media/AMG-Data-Nutrition-Label.png)
+![AMG-Data-Nutrition-Label](https://github.com/dylanflesch/website/blob/master/_posts/_media/AMG-Data-Nutrition-Label.png)
 
-# All Music Guide2  
-[All Music Website](https://www.allmusic.com/genres)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://nypr-my.sharepoint.com/:x:/g/personal/dflesch_nypublicradio_org/EW45xI23ualCkHaEgp_zSC8Bc7VP6H7ONnKkEGUZLjQpSg?e=vMDIFw&action=embedview&wdAllowInteractivity=True&&wdDownloadButton=True&wdInConfigurator=True"></iframe>  
 # Analysis and Litmus Tests  
 Numbers of distinct terms: 1143  
 Number of terms: 1180 (includes repeated terms at different levels or under different parents)  
