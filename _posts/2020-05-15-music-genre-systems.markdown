@@ -13,11 +13,8 @@ categories: update
 [Explore in Skosmos Taxonomy Managment Tool](http://18.234.160.10/Skosmos/amg/en/index)  
 [SQARQL query in knowledge graph](http://18.234.160.10:3030/dataset.html?tab=query&ds=/skosmos#query)  
 
-<iframe src="http://3.214.80.63/Skosmos/en/" title="Skosmos">
+<iframe src="https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-english" title="Hugging Face Test">
 </iframe>   
-
-<iframe src="http://3.214.80.63/Skosmos/en/" style="border: 0; width:700px; height:550px;"></iframe>  
-
 
 ![AMG-Data-Nutrition-Label](https://raw.githubusercontent.com/dylanflesch/website/master/_posts/_media/AMG-Data-Nutrition-Label.png)
 
