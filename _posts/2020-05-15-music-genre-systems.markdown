@@ -12,7 +12,7 @@ categories: update
 [All Music Guide Official Website](https://www.allmusic.com/genres)  
 [Explore in Skosmos Taxonomy Managment Tool](http://18.234.160.10/Skosmos/amg/en/index)  
 [SQARQL query in knowledge graph](http://18.234.160.10:3030/dataset.html?tab=query&ds=/skosmos#query)  
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="http://3.214.80.63/Skosmos/amg-taxonomy/en/"></iframe> 
+<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://conifer.rhizome.org/resistance/resistance-radio/20220703142847/https://resistanceradio.online/"></iframe> 
 
 ![AMG-Data-Nutrition-Label](https://raw.githubusercontent.com/dylanflesch/website/master/_posts/_media/AMG-Data-Nutrition-Label.png)
 
