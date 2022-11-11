@@ -12,6 +12,9 @@ categories: update
 [All Music Guide Official Website](https://www.allmusic.com/genres)  
 [Explore in Skosmos Taxonomy Managment Tool](http://18.234.160.10/Skosmos/amg/en/index)  
 [SQARQL query in knowledge graph](http://18.234.160.10:3030/dataset.html?tab=query&ds=/skosmos#query)  
+
+<iframe src="https://platform.twitter.com/widgets/tweet_button.html" style="border: 0; width:130px; height:20px;"></iframe>  
+
 <iframe width="700" height="550" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html"></iframe> 
 
 ![AMG-Data-Nutrition-Label](https://raw.githubusercontent.com/dylanflesch/website/master/_posts/_media/AMG-Data-Nutrition-Label.png)
