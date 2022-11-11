@@ -13,11 +13,8 @@ categories: update
 [Explore in Skosmos Taxonomy Managment Tool](http://18.234.160.10/Skosmos/amg/en/index)  
 [SQARQL query in knowledge graph](http://18.234.160.10:3030/dataset.html?tab=query&ds=/skosmos#query)  
 
-<iframe src="https://platform.twitter.com/widgets/tweet_button.html" style="border: 0; width:130px; height:20px;"></iframe>  
-
 <iframe src="http://3.214.80.63/Skosmos/en/" style="border: 0; width:700px; height:550px;"></iframe>  
 
-<iframe width="700" height="550" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html"></iframe> 
 
 ![AMG-Data-Nutrition-Label](https://raw.githubusercontent.com/dylanflesch/website/master/_posts/_media/AMG-Data-Nutrition-Label.png)
 
@@ -252,7 +249,7 @@ Number of terms: 1045 (includes repeated terms at different levels or under diff
 Levels of hierarchy (depth of terms): 7  
 #### Information about included terms  
 Variant terms: Yes  
-Broader terms: Yes  
+Broader terms: Yes
 Narrower terms: Yes  
 Related terms: No  
 Equivalent terms (in other systems): Yes  
